@@ -1,0 +1,65 @@
+*{
+
+margin: 0;
+ padding: 0;
+box-sizing: border-box;
+}
+
+
+.header{
+
+display: flex;
+flex-wrap: wrap;
+
+justify-content: space-between;
+align-items: center;
+}
+
+.header .logo{
+
+padding: 21.84px;
+
+}
+
+ul{
+
+list-style-type: none;
+
+}
+.list ul{
+
+display: flex;
+flex-wrap: wrap;
+gap: 60px
+
+
+}
+
+.list a {
+
+color:black ;
+
+
+
+}
+
+
+a{
+
+text-decoration: none;
+
+}
+
+
+
+.icon ul{
+
+display: flex;
+flex-wrap: wrap;
+gap: 24px 
+
+}
+
+
+
+
